@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopConsoleApp", "eShopConsoleApp\eShopConsoleApp.csproj", "{8D37C483-0F30-4C4B-9EEF-B364445BA31E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{392832DB-A55A-4B55-A5B3-B72BE0B521EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{EA6F1ED6-ED7A-4F07-98C9-3B4445E28DBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D37C483-0F30-4C4B-9EEF-B364445BA31E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D37C483-0F30-4C4B-9EEF-B364445BA31E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D37C483-0F30-4C4B-9EEF-B364445BA31E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D37C483-0F30-4C4B-9EEF-B364445BA31E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392832DB-A55A-4B55-A5B3-B72BE0B521EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392832DB-A55A-4B55-A5B3-B72BE0B521EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392832DB-A55A-4B55-A5B3-B72BE0B521EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392832DB-A55A-4B55-A5B3-B72BE0B521EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA6F1ED6-ED7A-4F07-98C9-3B4445E28DBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6F1ED6-ED7A-4F07-98C9-3B4445E28DBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA6F1ED6-ED7A-4F07-98C9-3B4445E28DBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA6F1ED6-ED7A-4F07-98C9-3B4445E28DBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

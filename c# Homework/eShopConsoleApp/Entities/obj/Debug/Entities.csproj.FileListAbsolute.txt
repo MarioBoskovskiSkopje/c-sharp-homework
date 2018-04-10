@@ -1,0 +1,5 @@
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\Entities\bin\Debug\Entities.dll
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\Entities\bin\Debug\Entities.pdb
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\Entities\obj\Debug\Entities.dll
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\Entities\obj\Debug\Entities.pdb

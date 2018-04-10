@@ -1,0 +1,10 @@
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\eShopConsoleApp\bin\Debug\eShopConsoleApp.exe.config
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\eShopConsoleApp\bin\Debug\eShopConsoleApp.exe
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\eShopConsoleApp\bin\Debug\eShopConsoleApp.pdb
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\eShopConsoleApp\obj\Debug\eShopConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\eShopConsoleApp\obj\Debug\eShopConsoleApp.exe
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\eShopConsoleApp\obj\Debug\eShopConsoleApp.pdb
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\eShopConsoleApp\bin\Debug\Entities.dll
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\eShopConsoleApp\bin\Debug\Services.dll
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\eShopConsoleApp\bin\Debug\Entities.pdb
+C:\Users\Mario\Desktop\c# Homework\eShopConsoleApp\eShopConsoleApp\bin\Debug\Services.pdb
